@@ -63,7 +63,7 @@ following subjects in the listed order.
     in part, thanks to Flutter.  
     [初识Dart][Intro to Dart] _(可选)_  
     你可能已经知道 Flutter 使用 [Dart 语言][Dart language].
-    如果你有其他面向对象（Object-oriented）的语言使用经验，例如
+    如果你有其他面向对象语言使用经验，例如
     Java、C++ 或者 Swift，你可能会觉得 Dart 与他们很相似。
     在本章节编写时,
     [Dart 是增长最快的语言之一][dart-lang],
@@ -72,7 +72,7 @@ following subjects in the listed order.
     Learn about one of the primary building blocks
     of a Flutter application, widgets.  
     [组件基础][Widget fundamentals]  
-    了解组成一个 Flutter 应用的基础积木之一，组件。
+    了解组成一个 Flutter 应用的基础元素之一 ———— 组件。
  3. [Layout][]
     Flutter is different from other UI frameworks
     in that you create the layout programmatically.
